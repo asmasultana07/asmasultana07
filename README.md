@@ -1,18 +1,21 @@
-# 👋 Hi, I'm Asma Sultana
+## 👋 Hi, I'm Asma Sultana
 👨‍🎓 **B.Sc. in Computer Science and Engineering** [University of Asia Pacific (UAP)](https://www.uap-bd.edu/)
 
 🎯 Goal: I’m an aspiring AI & Web Developer who’s passionate about building real-world tech that solves real problems.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=asmasultana07&style=for-the-badge)
 
 
-## About me
+ **About me**
+ 
 - 💻 I'm passionate about **AI/ML**, **Web Development**, and building impactful software.
 - 🧠 Currently learning and practicing **Frontend Development** and **Advanced Machine Learning Project**.
 - 🔍 Looking for opportunities to grow as a **Junior Developer or Engineer** and contribute to real-world projects.
 - ⚡ Focused on learning fast, building practical solutions, and contributing to real products. I love blending design with code to transform ideas into engaging and meaningful digital experiences. My journey in tech is ongoing, as I continually seek to learn and enhance my skills.
 
 
-## Skills & Tools
+ **Skills & Tools**
+ 
 **ML / AI:**   `NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Scikit-Learn` &nbsp; `PyTorch` &nbsp; `TensorFlow`
 
 **Languages:**   `Python` &nbsp; `C/C++` &nbsp; `R` &nbsp; `x86 Assembly`
@@ -26,7 +29,7 @@
 **Core Competencies:**   `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Data Pre-possessing` &nbsp; `Data Structures` &nbsp; `Algorithms` &nbsp; `OOP`
 
 
-## 📫 **Reach me at:**  
+📫 **Reach me at:**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/labanya123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmasultana07)
@@ -35,6 +38,7 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmasultana07&layout=compact&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmasultana07&show_icons=true&theme=tokyonight)
 
 
