@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Asma Sultana
 
-<!--
-**asmasultana07/asmasultana07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m an aspiring AI & Web Developer who’s passionate about building real-world tech that solves real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+
+- 🤖 Machine Learning with Python, TensorFlow, PyTorch, and Pandas
+- 🌐 Frontend development with HTML, CSS, and JavaScript
+- 🧠 Focused on learning fast, building practical solutions, and contributing to real products
+- 🛠️ Tools: Git, SQL, GitHub, VSCode, Google Colab
+
+---
+
+## 🧪 Recent Projects
+
+### 🔹 Mental Health Prediction using ML
+A classification model trained on anonymized mental health data to detect patterns and risk factors.
+
+### 🔹 Chronic Kidney Disease Detection
+Developed an ML model to predict CKD using clinical data. Evaluated performance using AUC-ROC and F1 scores.
+
+### 🔹 Responsive Personal Portfolio
+Built a fully responsive personal website using HTML, CSS, and JavaScript to showcase my ML projects and skills.
+
+---
+
+## 🚀 Goals
+- Build 3+ production-ready AI projects with UI integration
+- Contribute to open-source AI/frontend tools
+- Learn React & API integration
+
+---
+
+📫 **Reach me at:**  
+- GitHub: [your-github-link]  
+- Email: [your-email]  
