@@ -1,38 +1,52 @@
-# 👋 Hey, I'm Asma Sultana
+# 👋 Hi, I'm Asma Sultana
 
-🎯 I’m an aspiring AI & Web Developer who’s passionate about building real-world tech that solves real problems.
+👨‍🎓 **B.Sc. in Computer Science and Engineering**  
+[University of Asia Pacific (UAP)](https://www.uap-bd.edu/)
 
----
+🎯 Goal: I’m an aspiring AI & Web Developer who’s passionate about building real-world tech that solves real problems.
 
-## 💡 What I Do
+![Profile Views](https://komarev.com/ghpvc/?username=asmasultana07&style=for-the-badge)
+--
 
-- 🤖 Machine Learning with Python, TensorFlow, PyTorch, and Pandas
-- 🌐 Frontend development with HTML, CSS, and JavaScript
-- 🧠 Focused on learning fast, building practical solutions, and contributing to real products
-- 🛠️ Tools: Git, SQL, GitHub, VSCode, Google Colab
+## About me
 
----
+- 💻 I'm passionate about **AI/ML**, **Web Development**, and building impactful software.
+- 🧠 Currently learning and practicing **Frontend Development** and **Advanced Machine Learning Project**.
+- 🔍 Looking for opportunities to grow as a **Junior Developer or Engineer** and contribute to real-world projects.
+- ⚡ Focused on learning fast, building practical solutions, and contributing to real products. I love blending design with code to transform ideas into engaging and meaningful digital experiences. My journey in tech is ongoing, as I continually seek to learn and enhance my skills.
 
-## 🧪 Recent Projects
 
-### 🔹 Mental Health Prediction using ML
-A classification model trained on anonymized mental health data to detect patterns and risk factors.
+## Skills & Tools
 
-### 🔹 Chronic Kidney Disease Detection
-Developed an ML model to predict CKD using clinical data. Evaluated performance using AUC-ROC and F1 scores.
+**ML / AI:**  
+`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Scikit-Learn` &nbsp; `PyTorch` &nbsp; `TensorFlow`
 
-### 🔹 Responsive Personal Portfolio
-Built a fully responsive personal website using HTML, CSS, and JavaScript to showcase my ML projects and skills.
+**Languages:**  
+`Python` &nbsp; `C/C++` &nbsp; `R` &nbsp; `x86 Assembly`
 
----
+**Web Technologie:**
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript`
 
-## 🚀 Goals
-- Build 3+ production-ready AI projects with UI integration
-- Contribute to open-source AI/frontend tools
-- Learn React & API integration
+**Backend:**  
+`Django` &nbsp; `MySQL`
 
----
+**Tools:**  
+`Git` &nbsp; `GitHub` &nbsp; `LaTeX`
+
+**Core Competencies:**  
+`Machine Learning` &nbsp; `Deep Learning` &nbsp; `Data Pre-possessing` &nbsp; `Data Structures` &nbsp; `Algorithms` &nbsp; `OOP`
+
+--
 
 📫 **Reach me at:**  
-- GitHub: [your-github-link]  
-- Email: [your-email]  
+- GitHub: [https://github.com/asmasultana07]
+- LinkedIn: [www.linkedin.com/in/asmasultana07]
+- kaggle: [https://www.kaggle.com/abasma]
+- Email: [ab.asma1084@gmail.com]
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmasultana07&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmasultana07&layout=compact&theme=default" width="48%" />
+</p>
+
