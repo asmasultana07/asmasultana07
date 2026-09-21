@@ -20,13 +20,13 @@
 
 **Languages:**   `Python` &nbsp; `C/C++` &nbsp; `R` &nbsp; `x86 Assembly`
 
-**Web Technologie:**  `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+**Web Technologie:**  `HTML` &nbsp; `CSS` &nbsp; `JavaScript (ES6+)` &nbsp; `React.js` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS`
 
-**Backend:**   `Django` &nbsp; `MySQL`
+**Backend:**   `Python` &nbsp; `Django` &nbsp; `MySQL` &nbsp; `JWT` &nbsp;  `Authentication` &nbsp; `Node.js` &nbsp; `Firebase` &nbsp;  `REST APIs`
 
-**Tools:**   `Git` &nbsp; `GitHub` &nbsp; `LaTeX`
+**Tools:**   `Git` &nbsp; `GitHub` &nbsp; `Vercel`  &nbsp; `LaTeX`  &nbsp; `Figma`
 
-**Core Competencies:**   `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Data Pre-possessing` &nbsp; `Data Structures` &nbsp; `Algorithms` &nbsp; `OOP`
+**Core Competencies:**   `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Data Pre-possessing` &nbsp; `Data Structures` &nbsp; `Algorithms` &nbsp; `OOP` &nbsp; `Database Management Systems (DBMS)`
 
 ---
 📫 **Reach me at:**  
