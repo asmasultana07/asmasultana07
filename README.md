@@ -34,11 +34,11 @@ I'm a Full-Stack Developer with hands-on expertise in React, Next.js, Node.js, T
 
 <p align="center">
     <img width="46%" src="https://github-readme-stats.vercel.app/api?username=asmasultana07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-   <img src="https://streak-stats.demolab.com/?user=shibli790&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"alt="GitHub Streak "/>
+   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmasultana07&layout=compact&theme=tokyonight" alt="Top Languages" /> 
  </p>
+ 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmasultana07&layout=compact&theme=tokyonight" alt="Top Languages" />
-   
-</p>
+  <img width="52%" src="https://streak-stats.demolab.com/?user=shibli790&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"alt="GitHub Streak "/>
+ </p>
 
  
