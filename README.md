@@ -1,3 +1,4 @@
+![My Banner](./Banner.png)
 ## 👋 Hi, I'm Asma Sultana
 👨‍🎓 **B.Sc. in Computer Science and Engineering** [University of Asia Pacific (UAP)](https://www.uap-bd.edu/)
 
