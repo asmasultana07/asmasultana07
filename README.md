@@ -22,37 +22,23 @@ I'm a Full-Stack Developer with hands-on expertise in React, Next.js, Node.js, T
 | **Database & Authentication** | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light)   |
 | **AI/ML & Data Science** | ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light) ![Scikit-learn](https://skillicons.dev/icons?i=sklearn&theme=light) `NumPy` `Pandas` `Matplotlib` `AI Integration` |
 | **Tools & Design** | ![Git](https://skillicons.dev/icons?i=git&theme=light) ![GitHub](https://skillicons.dev/icons?i=github&theme=light) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=light) ![Figma](https://skillicons.dev/icons?i=figma&theme=light) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)   |
-
-
-
-
-
-
- **Skills & Tools**
  
-**ML / AI:**   `NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Scikit-Learn` &nbsp; `PyTorch` &nbsp; `TensorFlow`
 
-**Languages:**   `Python` &nbsp; `C/C++` &nbsp; `R` &nbsp; `x86 Assembly`
-
-**Web Technologie:**  `HTML` &nbsp; `CSS` &nbsp; `JavaScript (ES6+)` &nbsp; `React.js` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS`
-
-**Backend:**   `Python` &nbsp; `Django` &nbsp; `MySQL` &nbsp; `JWT` &nbsp;  `Authentication` &nbsp; `Node.js` &nbsp; `Firebase` &nbsp;  `REST APIs`
-
-**Tools:**   `Git` &nbsp; `GitHub` &nbsp; `Vercel`  &nbsp; `LaTeX`  &nbsp; `Figma`
-
-**Core Competencies:**   `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Data Pre-possessing` &nbsp; `Data Structures` &nbsp; `Algorithms` &nbsp; `OOP` &nbsp; `Database Management Systems (DBMS)`
-
----
-📫 **Reach me at:**  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmasultana07)
+ ##  Reach me at   
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmasultana07)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abasma)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab.asma1084@gmail.com)
 
+## My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmasultana07&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmasultana07&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" height="170" />
+  <img src="https://streak-stats.demolab.com?user=asmasultana07&theme=gruvbox&hide_border=truee" height="170" />
+</p>
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmasultana07&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmasultana07&layout=compact&theme=gruvbox&hide_border=true" height="220" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmasultana07&show_icons=true&theme=tokyonight)
-
-
+ 
