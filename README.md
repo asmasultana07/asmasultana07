@@ -1,18 +1,31 @@
 ![My Banner](./Banner.png)
-## 👋 Hi, I'm Asma Sultana
-👨‍🎓 **B.Sc. in Computer Science and Engineering** [University of Asia Pacific (UAP)](https://www.uap-bd.edu/)
-
-🎯 Goal: I’m an aspiring AI & Web Developer who’s passionate about building real-world tech that solves real problems.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=asmasultana07&style=for-the-badge)
+  
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile!;I+am+a+Full+Stack+Developer!;AI+%26+ML+Enthusiast!" alt="Typing SVG" />
+</h3>
+  
+## About me
+I'm a Full-Stack Developer with hands-on expertise in React, Next.js, Node.js, TypeScript, and MongoDB. I build everything from visually appealing front-end interfaces to secure and scalable back-end systems, following modern standards like JavaScript (ES6+) and RESTful APIs.
 
----
- **About me**
- 
-- 💻 I'm passionate about **AI/ML**, **Web Development**, and building impactful software.
-- 🧠 Currently learning and practicing **Frontend Development** and **Advanced Machine Learning Project**.
+- 🧠 Currently learning and practicing **Full Stack Web Development**.
 - 🔍 Looking for opportunities to grow as a **Junior Developer or Engineer** and contribute to real-world projects.
 - ⚡ Focused on learning fast, building practical solutions, and contributing to real products. I love blending design with code to transform ideas into engaging and meaningful digital experiences. My journey in tech is ongoing, as I continually seek to learn and enhance my skills.
+
+## Skills & Technologies  
+
+| **Category** | **Tech Stack** |
+|:---|:---|
+| **Programming Languages** | ![Python](https://skillicons.dev/icons?i=python&theme=light) ![C](https://skillicons.dev/icons?i=c&theme=light) ![C++](https://skillicons.dev/icons?i=cpp&theme=light) ![R](https://skillicons.dev/icons?i=r&theme=light) ![JavaScript](https://skillicons.dev/icons?i=js&theme=light) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=light) |
+| **Frontend Development** | ![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light) ![React](https://skillicons.dev/icons?i=react&theme=light) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=light) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=light) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light) ![Vite](https://skillicons.dev/icons?i=vite&theme=light)  |
+| **Backend Development** | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light) ![Express](https://skillicons.dev/icons?i=express&theme=light) ![Django](https://skillicons.dev/icons?i=django&theme=light)  |
+| **Database & Authentication** | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light)   |
+| **AI/ML & Data Science** | ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light) ![Scikit-learn](https://skillicons.dev/icons?i=sklearn&theme=light) `NumPy` `Pandas` `Matplotlib` `AI Integration` |
+| **Tools & Design** | ![Git](https://skillicons.dev/icons?i=git&theme=light) ![GitHub](https://skillicons.dev/icons?i=github&theme=light) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=light) ![Figma](https://skillicons.dev/icons?i=figma&theme=light) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)   |
+
+
+
+
 
 
  **Skills & Tools**
